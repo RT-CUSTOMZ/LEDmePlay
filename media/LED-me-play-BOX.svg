@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="241.80mm"
+   viewBox="0.0 0.0 296.40 241.80"
+   width="296.40mm"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="LED-me-play-BOX.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="200.81833"
+     inkscape:cy="363.45289"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <!--
+ABox - A simple Box
+
+
+This box is kept simple on purpose. If you need more features have a look at the UniversalBox.
+
+
+Created with Boxes.py (https://boxes.hackerspace-bamberg.de/)
+Creation date: 2024-08-01 08:17:58
+Command line (remove spaces between dashes): boxes ABox - -x=129.0 - -y=129.0 - -h=30.0 - -outside=0 - -bottom_edge=F - -thickness=4.0
+Url: http://boxes.hackerspace-bamberg.de/boxes.py/ABox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&Lid_handle=none&Lid_style=none&Lid_handle_height=8.0&Lid_height=4.0&Lid_play=0.1&x=129.0&y=129.0&h=30.0&outside=0&bottom_edge=F&thickness=4.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100.0&inner_corners=loop&burn=0.1&language=de&render=2
+Url short: http://boxes.hackerspace-bamberg.de/boxes.py/ABox?x=129.0&y=129.0&h=30.0&outside=0&bottom_edge=F&thickness=4.0
+SettingsUrl: http://boxes.hackerspace-bamberg.de/boxes.py/ABox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&Lid_handle=none&Lid_style=none&Lid_handle_height=8.0&Lid_height=4.0&Lid_play=0.1&x=129.0&y=129.0&h=30.0&outside=0&bottom_edge=F&thickness=4.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100.0&inner_corners=loop&burn=0.1&language=de&render=2
+SettingsUrl short: http://boxes.hackerspace-bamberg.de/boxes.py/ABox?x=129.0&y=129.0&h=30.0&outside=0&bottom_edge=F&thickness=4.0
+-->
+  <title
+     id="title1">ABox</title>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:title>ABox</dc:title>
+        <dc:date>2024-08-01 08:17:58</dc:date>
+        <dc:source>http://boxes.hackerspace-bamberg.de/boxes.py/ABox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;Lid_handle=none&amp;Lid_style=none&amp;Lid_handle_height=8.0&amp;Lid_height=4.0&amp;Lid_play=0.1&amp;x=129.0&amp;y=129.0&amp;h=30.0&amp;outside=0&amp;bottom_edge=F&amp;thickness=4.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100.0&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=2</dc:source>
+        <dc:source>http://boxes.hackerspace-bamberg.de/boxes.py/ABox?x=129.0&amp;y=129.0&amp;h=30.0&amp;outside=0&amp;bottom_edge=F&amp;thickness=4.0</dc:source>
+        <dc:description>A simple Box
+
+This box is kept simple on purpose. If you need more features have a look at the UniversalBox.
+
+Created with Boxes.py (https://boxes.hackerspace-bamberg.de/)
+Command line: boxes ABox --FingerJoint_angle=90.0 --FingerJoint_style=rectangular --FingerJoint_surroundingspaces=2.0 --FingerJoint_bottom_lip=0.0 --FingerJoint_edge_width=1.0 --FingerJoint_extra_length=0.0 --FingerJoint_finger=2.0 --FingerJoint_play=0.0 --FingerJoint_space=2.0 --FingerJoint_width=1.0 --Lid_handle=none --Lid_style=none --Lid_handle_height=8.0 --Lid_height=4.0 --Lid_play=0.1 --x=129.0 --y=129.0 --h=30.0 --outside=0 --bottom_edge=F --thickness=4.0 --format=svg --tabs=0.0 --qr_code=0 --debug=0 --labels=0 --labels=1 --reference=100.0 --inner_corners=loop --burn=0.1
+Command line short: boxes ABox --x=129.0 --y=129.0 --h=30.0 --outside=0 --bottom_edge=F --thickness=4.0
+Url: http://boxes.hackerspace-bamberg.de/boxes.py/ABox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;Lid_handle=none&amp;Lid_style=none&amp;Lid_handle_height=8.0&amp;Lid_height=4.0&amp;Lid_play=0.1&amp;x=129.0&amp;y=129.0&amp;h=30.0&amp;outside=0&amp;bottom_edge=F&amp;thickness=4.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100.0&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=2
+Url short: http://boxes.hackerspace-bamberg.de/boxes.py/ABox?x=129.0&amp;y=129.0&amp;h=30.0&amp;outside=0&amp;bottom_edge=F&amp;thickness=4.0
+SettingsUrl: http://boxes.hackerspace-bamberg.de/boxes.py/ABox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;Lid_handle=none&amp;Lid_style=none&amp;Lid_handle_height=8.0&amp;Lid_height=4.0&amp;Lid_play=0.1&amp;x=129.0&amp;y=129.0&amp;h=30.0&amp;outside=0&amp;bottom_edge=F&amp;thickness=4.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100.0&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=2
+SettingsUrl short: http://boxes.hackerspace-bamberg.de/boxes.py/ABox?x=129.0&amp;y=129.0&amp;h=30.0&amp;outside=0&amp;bottom_edge=F&amp;thickness=4.0
+</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="p-1"
+     style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-width:0.10019168;stroke-dasharray:none"
+     transform="matrix(0.99808689,0,0,0.99808689,0.28352314,0.21962521)">
+    <path
+       d="m 14.1,219.6 h 12.5 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12.5 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -13 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -3.9 c -0.1,0 0,0.1 0,0 v -7.8 c 0,-0.1 -0.1,0 0,0 h 3.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -13 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 -129 -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 13 c 0,0.055 0.045,0.1 0.1,0.1 H 14 c 0.1,0 0,-0.1 0,0 v 7.8 c 0,0.1 0.1,0 0,0 h -3.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 13 c 0,0.055 0.045,0.1 0.1,0.1 z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.2"
+       id="path2"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:0.10019168;stroke-dasharray:none" />
+  </g>
+  <g
+     id="p-2"
+     style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-width:0.10019168;stroke-dasharray:none"
+     transform="matrix(0.99808689,0,0,0.99808689,0.28352314,0.21962521)">
+    <path
+       d="m 14.1,183.4 h 12.5 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12.5 4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -13 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -3.9 c -0.1,0 0,0.1 0,0 v -7.8 c 0,-0.1 -0.1,0 0,0 h 3.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -13 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -4 -129 -4 c -0.055,0 -0.1,0.045 -0.1,0.1 v 13 c 0,0.055 0.045,0.1 0.1,0.1 H 14 c 0.1,0 0,-0.1 0,0 v 7.8 c 0,0.1 0.1,0 0,0 h -3.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 13 c 0,0.055 0.045,0.1 0.1,0.1 z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.2"
+       id="path3"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:0.10019168;stroke-dasharray:none" />
+  </g>
+  <g
+     id="p-3"
+     style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-width:0.10019168;stroke-dasharray:none"
+     transform="matrix(0.99808689,0,0,0.99808689,0.28352314,0.21962521)">
+    <path
+       d="m 14.1,143.2 h 12.4 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 12.4 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12.4 c 0,-0.1 -0.1,0 0,0 h 3.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -3.9 c -0.1,0 0,0.1 0,0 v -7.8 c 0,-0.1 -0.1,0 0,0 h 3.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -3.9 c -0.1,0 0,0.1 0,0 v -7.8 c 0,-0.1 -0.1,0 0,0 h 3.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -3.9 c -0.1,0 0,0.1 0,0 v -7.8 c 0,-0.1 -0.1,0 0,0 h 3.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -3.9 c -0.1,0 0,0.1 0,0 v -7.8 c 0,-0.1 -0.1,0 0,0 h 3.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -3.9 c -0.1,0 0,0.1 0,0 v -7.8 c 0,-0.1 -0.1,0 0,0 h 3.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -3.9 c -0.1,0 0,0.1 0,0 v -7.8 c 0,-0.1 -0.1,0 0,0 h 3.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -3.9 c -0.1,0 0,0.1 0,0 V 14.1 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -12.4 c -0.1,0 0,0.1 0,0 v -3.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -8 c -0.055,0 -0.1,0.045 -0.1,0.1 V 14 c 0,0.1 0.1,0 0,0 h -7.8 c -0.1,0 0,0.1 0,0 v -3.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -8 c -0.055,0 -0.1,0.045 -0.1,0.1 V 14 c 0,0.1 0.1,0 0,0 h -7.8 c -0.1,0 0,0.1 0,0 V 10.1 C 98.7,10.045 98.655,10 98.6,10 h -8 c -0.055,0 -0.1,0.045 -0.1,0.1 V 14 c 0,0.1 0.1,0 0,0 h -7.8 c -0.1,0 0,0.1 0,0 V 10.1 C 82.7,10.045 82.655,10 82.6,10 h -8 c -0.055,0 -0.1,0.045 -0.1,0.1 V 14 c 0,0.1 0.1,0 0,0 h -7.8 c -0.1,0 0,0.1 0,0 V 10.1 C 66.7,10.045 66.655,10 66.6,10 h -8 c -0.055,0 -0.1,0.045 -0.1,0.1 V 14 c 0,0.1 0.1,0 0,0 h -7.8 c -0.1,0 0,0.1 0,0 V 10.1 C 50.7,10.045 50.655,10 50.6,10 h -8 c -0.055,0 -0.1,0.045 -0.1,0.1 V 14 c 0,0.1 0.1,0 0,0 h -7.8 c -0.1,0 0,0.1 0,0 V 10.1 C 34.7,10.045 34.655,10 34.6,10 h -8 c -0.055,0 -0.1,0.045 -0.1,0.1 V 14 c 0,0.1 0.1,0 0,0 H 14.1 C 14.045,14 14,14.045 14,14.1 v 12.4 c 0,0.1 0.1,0 0,0 h -3.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 8 c 0,0.055 0.045,0.1 0.1,0.1 H 14 c 0.1,0 0,-0.1 0,0 v 7.8 c 0,0.1 0.1,0 0,0 h -3.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 8 c 0,0.055 0.045,0.1 0.1,0.1 H 14 c 0.1,0 0,-0.1 0,0 v 7.8 c 0,0.1 0.1,0 0,0 h -3.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 8 c 0,0.055 0.045,0.1 0.1,0.1 H 14 c 0.1,0 0,-0.1 0,0 v 7.8 c 0,0.1 0.1,0 0,0 h -3.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 8 c 0,0.055 0.045,0.1 0.1,0.1 H 14 c 0.1,0 0,-0.1 0,0 v 7.8 c 0,0.1 0.1,0 0,0 h -3.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 8 c 0,0.055 0.045,0.1 0.1,0.1 H 14 c 0.1,0 0,-0.1 0,0 v 7.8 c 0,0.1 0.1,0 0,0 h -3.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 8 c 0,0.055 0.045,0.1 0.1,0.1 H 14 c 0.1,0 0,-0.1 0,0 v 7.8 c 0,0.1 0.1,0 0,0 h -3.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 8 c 0,0.055 0.045,0.1 0.1,0.1 H 14 c 0.1,0 0,-0.1 0,0 v 12.4 c 0,0.055 0.045,0.1 0.1,0.1 z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.2"
+       id="path4"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:0.10019168;stroke-dasharray:none" />
+  </g>
+  <g
+     id="p-4"
+     style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-width:0.10019168;stroke-dasharray:none"
+     transform="matrix(0.99808689,0,0,0.99808689,0.28352314,0.21962521)">
+    <path
+       d="m 153.3,219.6 h 12.5 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12.5 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12.9 c 0,-0.1 -0.1,0 0,0 h 3.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -3.9 c -0.1,0 0,0.1 0,0 v -12.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -129 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12.9 c 0,0.1 0.1,0 0,0 h -3.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 8 c 0,0.055 0.045,0.1 0.1,0.1 h 3.9 c 0.1,0 0,-0.1 0,0 v 12.9 c 0,0.055 0.045,0.1 0.1,0.1 z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.2"
+       id="path5"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:0.10019168;stroke-dasharray:none" />
+  </g>
+  <g
+     id="p-5"
+     style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-width:0.10019168;stroke-dasharray:none"
+     transform="matrix(0.99808689,0,0,0.99808689,0.28352314,0.21962521)">
+    <path
+       d="m 153.3,183.4 h 12.5 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 8 c 0.055,0 0.1,-0.045 0.1,-0.1 v -3.9 c 0,-0.1 -0.1,0 0,0 h 7.8 c 0.1,0 0,-0.1 0,0 v 3.9 c 0,0.055 0.045,0.1 0.1,0.1 h 12.5 c 0.055,0 0.1,-0.045 0.1,-0.1 v -12.9 c 0,-0.1 -0.1,0 0,0 h 3.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -3.9 c -0.1,0 0,0.1 0,0 v -12.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -129 c -0.055,0 -0.1,0.045 -0.1,0.1 v 12.9 c 0,0.1 0.1,0 0,0 h -3.9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 8 c 0,0.055 0.045,0.1 0.1,0.1 h 3.9 c 0.1,0 0,-0.1 0,0 v 12.9 c 0,0.055 0.045,0.1 0.1,0.1 z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.2"
+       id="path6"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:0.10019168;stroke-dasharray:none" />
+  </g>
+  <rect
+     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6"
+     width="31.93878"
+     height="12.975129"
+     x="176.05"
+     y="196.54332" />
+  <rect
+     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6-3"
+     width="31.93878"
+     height="12.975129"
+     x="176.05"
+     y="160.41257" />
+  <circle
+     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-opacity:1;stroke-dasharray:none"
+     id="path7"
+     cx="243.81673"
+     cy="203.52992"
+     r="5.4894781" />
+  <circle
+     style="fill:none;stroke:#ff0000;stroke-width:0.0949613;stroke-opacity:1"
+     id="path7-6"
+     cx="231.83968"
+     cy="203.52992"
+     r="1.9961737" />
+  <circle
+     style="fill:none;stroke:#ff0000;stroke-width:0.1"
+     id="path1"
+     cx="244.55"
+     cy="173.631"
+     r="4.5" />
+</svg>

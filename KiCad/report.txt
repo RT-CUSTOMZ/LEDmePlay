@@ -1,0 +1,32 @@
+Hinweis: Verarbeite Symbol "D1:LED_THT:LED_D5.0mm_IRGrey".
+Hinweis: Verarbeite Symbol "U1:Espressif:ESP32-DevKitC".
+Hinweis: Verarbeite Symbol "SW1:Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS".
+Hinweis: Verarbeite Symbol "R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+Hinweis: Verarbeite Symbol "R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+Hinweis: Verarbeite Symbol "Q1:Package_TO_SOT_THT:TO-92L".
+Hinweis: Verarbeite Symbol "J6:Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_4-G-5,08_1x04_P5.08mm_Horizontal".
+Hinweis: Verarbeite Symbol "J4:Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm".
+Hinweis: Verarbeite Symbol "J3:Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm".
+Hinweis: Verarbeite Symbol "J2:Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "H4:MountingHole:MountingHole_3.5mm".
+Hinweis: Verarbeite Symbol "BZ1:Buzzer_Beeper:MagneticBuzzer_PUI_AT-0927-TT-6-R".
+Hinweis: Verarbeite Symbol "D2:Diode_THT:D_A-405_P12.70mm_Horizontal".
+Hinweis: Verarbeite Symbol "FID1:Fiducial:Fiducial_1.5mm_Mask3mm".
+Hinweis: Verarbeite Symbol "FID2:Fiducial:Fiducial_1.5mm_Mask3mm".
+Hinweis: Verarbeite Symbol "FID3:Fiducial:Fiducial_1.5mm_Mask3mm".
+Hinweis: Verarbeite Symbol "H1:MountingHole:MountingHole_3.5mm_Pad_TopBottom".
+Hinweis: Verarbeite Symbol "H2:MountingHole:MountingHole_3.5mm".
+Hinweis: Verarbeite Symbol "H3:MountingHole:MountingHole_3.5mm".
+Hinweis: Verarbeite Symbol "J1:Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002".
+Wert J6 von Conn_01x04_Socket in +5V-Display geändert.
+J6 Pin 2 von +5V nach GND wieder verbunden.
+J6 Pin 3 von GND nach +5V wieder verbunden.
+J6 Pin 1 von +5V nach GND wieder verbunden.
+J6 Pin 4 von GND nach +5V wieder verbunden.
+Warnung: Kein Netz für Komponente J4 Pad 0 gefunden (kein Pin 0 in Symbol).
+Warnung: Kein Netz für Komponente J4 Pad 0 gefunden (kein Pin 0 in Symbol).
+Warnung: Kein Netz für Komponente J3 Pad 0 gefunden (kein Pin 0 in Symbol).
+Warnung: Kein Netz für Komponente J3 Pad 0 gefunden (kein Pin 0 in Symbol).
+
+
+Hinweis: Warnungen insgesamt: 4, Fehler insgesamt: 0.
